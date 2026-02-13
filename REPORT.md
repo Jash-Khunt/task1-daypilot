@@ -1,5 +1,11 @@
 # DayPilot — Project Report
 
+## 1. ✅ Live Demo
+
+🔗 **[https://jash-khunt.github.io/task1-daypilot/](https://jash-khunt.github.io/task1-daypilot/)**
+
+---
+
 ## 2. ✅ What App I Built & Why
 
 **DayPilot** is a modern, fully client-side **Daily Planner** web application designed to help users organize tasks, set priorities, and track their daily progress — all in the browser with zero backend.
